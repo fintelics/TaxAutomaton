@@ -1,5 +1,9 @@
+
 # TaxAutomaton
 This project aims to create a automation process for organizing receipts for taxation purposes. 
+
+## Powered By Fintelics
+ ![](https://media.licdn.com/dms/image/C560BAQFSfx9gplUjhw/company-logo_200_200/0?e=2159024400&v=beta&t=dhD6MUwJUGa7cKYSZ8abF-P3DjaMLCnVoRpjBGh-pVc)
 ___
 # Gmail Invoice Organizer
 The gmail invoice organizer uses gmail api to look through the entire mail box and forward them to the accountant upon grouping   

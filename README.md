@@ -1,8 +1,8 @@
 # TaxAutomaton
 This project aims to create a automation process for organizing receipts for taxation purposes. 
 ___
-# Gmail Invoice Organzer
-The gmail invoice organizer uses gmail api to look through the entire mail box and retrieve the pdf document for receipt, then upload it to Google Drive Folder.
+# Gmail Invoice Organizer
+The gmail invoice organizer uses gmail api to look through the entire mail box and forward them to the accountant upon grouping   
 
 ### Setup
 Go to this page: https://developers.google.com/gmail/api/quickstart/python
